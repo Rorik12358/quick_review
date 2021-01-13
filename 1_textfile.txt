@@ -1,2 +1,5 @@
 file 1
 Hello world
+
+Wed Jan 13 16:42:04 UTC 2021 log1
+Wed Jan 13 16:42:09 UTC 2021 log2
