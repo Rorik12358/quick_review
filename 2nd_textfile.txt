@@ -1,3 +1,0 @@
-Hello world to the second textfile
-Thu Jan 14 11:00:33 UTC 2021 log1
-Thu Jan 14 13:00:06 UTC 2021 log2

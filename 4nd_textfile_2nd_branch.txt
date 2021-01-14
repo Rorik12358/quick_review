@@ -1,2 +1,0 @@
-Hello world
-This file has been created to see how git stash works
