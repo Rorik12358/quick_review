@@ -1,5 +1,2 @@
-file 1
-Hello world
-
 Wed Jan 13 16:42:04 UTC 2021 log1
 Wed Jan 13 17:40:22 UTC 2021 changed file and log3 added
