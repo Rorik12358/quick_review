@@ -1,1 +1,2 @@
-Hello world at .gitignore
+# ignore all .log files 
+*.log
